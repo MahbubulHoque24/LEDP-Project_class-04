@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+
+body{
+
+background: #1cca3e;
+}
+
+.container{
+	padding: 100px 50px;
+	width: 1200px;
+	margin: 100px auto;
+	overflow: hidden;
+}
+
+p{
+    font-size: 22px;
+    line-height: 1.6;
+    padding: 0 14px;
+}
+p span{
+    background: slateblue;
+    display: inline-block;
+    margin-bottom: 1px;
+    padding: 5px 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    background: cornsilk;
+    color: crimson;
+    padding: 8px 8px;
+    display: inline-block;
+}
+
+strong{
+	
+background: black;
+	
+color: white;
+	
+padding: 15px 20px;
+	
+display: inline-block;
+}
+
+.box{
+    width: 33.33%;
+    float: left;
+    padding: 15px;
+}
+
+article{
+	
+padding: 52px 10px;
+	
+background: #1cca3e;
+box-shadow:  28px 28px 57px #373B44, 
+             -28px -28px 57px #4286f4;
+}
